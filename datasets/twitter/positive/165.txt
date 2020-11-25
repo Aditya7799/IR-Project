@@ -1,0 +1,1 @@
+Took me months to decide, but tonight I have chosen #google over Amazon S3 for image storage solution.

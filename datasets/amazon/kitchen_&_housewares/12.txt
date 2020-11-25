@@ -1,0 +1,3 @@
+ The design for using the DC adapter with LED Booklight is extremely poor. It is possible that I missed the warning that tells you to remove the batteries before using the DC adapter. But, it must not have been very big. I combined the two and ended up with batteries that leaked all over inside the battery case. These were brand new batteries. There does not seem to be anything protecting the batteries from the DC adapter and so the power goes right into them. This is bad. Modern devices are expected to work with either battery or adapter without having to remove the batteries.
+ 
+ I had assumed that I could leave the batteries in so that when I was at home I could use the adapter, but traveling I would use the batteries.  Don't make this mistake

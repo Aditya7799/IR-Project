@@ -1,0 +1,3 @@
+ Not recommended for native speakers of the English language.
+ When trees == forests and top-level directories are instead 'naming contexts' .... The desirable format would be "This feature, which MS call 'X', is 'Y' plain english", but instead the Y feature will only ever be called X. 
+ This is not a helpful book

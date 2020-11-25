@@ -1,0 +1,5 @@
+ Hal Abelson is responsible for a famous epigram, "If I haven't seen as far as others, it is because giants were standing on my shoulders."
+ 
+ This book is solidly enough written, but it's a cut-down, shallow rehash of a few justly famous functional programming textbooks.  The first is Abelson and Sussman's "Structure and Interpretation of Computer Programs"; the second, Bird and Wadler's "Introduction to Functional Programming".
+ 
+ If you want to really learn deep truths about programming, go buy those two books.  If they leave you scratching your head about how to transmogrify what you learn into Perl, buy Schwartz's "Perls of Wisdom"

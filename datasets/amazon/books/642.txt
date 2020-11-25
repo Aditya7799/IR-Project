@@ -1,0 +1,99 @@
+ Several reviews of this book, published elsewhere, stress
+ the contents of Rossi's analysis were more focused toward 
+ the skeptical side of Egyptian math and construction methods.
+ Rossi, therefore is being fairly depicted as publishing new information within unproven paradigms.
+ 
+ On the math side, Rossi mentions Fibonacci's algorithm
+ and phi, two paradigms that clearly were not used in ancient
+ Egypt, though many like to suggest that they were. The
+ Fibonacci algorithm idea was introduced after 1891 and J.J. 
+ Sylvester's skeptical views of the RMP's 2/nth table, are 
+ reference point to 1202 AD and the Liber Abaci, but not 
+ a reference point of Egypt. Egypt used more subtle ideas
+ like http://egyptianmath.blogspot.com and http://akhmimwoodentablet.blogspot.com .
+ 
+ Yet, Hultsch in 1895 clearly showed that Ahmes in 1650 BC 
+ easily wrote out 2/p series into short and concise unit 
+ fraction series using a very simple partitioning method 
+ (as Ahmes wrote out n/p answers in his 'false position' 
+ algebra problems, ie. 5/19 written out in a long awkward 
+ series using 1/12th as the first partition, as he did for 2/19,
+ as describe a couple paragraphs below. Ahmes wrote 5/19
+ 
+ per, 5/19 - 1/12 = (60 - 19)/(12*19) = (38 + 2 + 1)/(12*19)
+ 
+ or, 5/19 = 1/6 + 1/12 + 1/114 + 1/228). 
+ 
+ Clearly modern scholars (two being Robins-Shute) have often suggested that 'false supposition' was used by Ahmes, hinting
+ that Ahmes guessed at his answers. Ahmes never guessed! Ahmes'
+ answers were always exact when he worked with rational numbers.
+ 
+ Moderm scholars were the ones that had guessed, and missed, finding Ahmes deeper methods. Interestingly no scholar, until
+ very recently, has claimed to have read Ahmes' shorthand
+ notes. Modern scholars had sadly filled inlogical gaps left
+ by Ahmes with their own intellectual guesses - many of which
+ have been proven to be wrong (as Rossi had not learned, since
+ he referenced none of the controversial Eguptian fraction and weights and measures issues).
+ 
+ Bruins also discovered the Hultsch method in 1945, and today 
+ the method is named the Hultsch-Bruin method. It says that
+ 
+ 2/p = 1/A  + (2A -p)/Ap
+ 
+ where A, a highly divisible number selected in the range
+ 
+    p/2 &lt; A &lt; p
+ 
+ with the divisors of A uniquely added to (2A -p)
+ thereby solving (2A-p)/Ap.
+ 
+ Example,
+ 
+ 2/19 = 1/12 + (24 -19)/(12*19)
+ 
+       = 1/12 + (3 + 2)/(12*19)
+ 
+       = 1/12 + 1/76 + 1/114
+ 
+ with the (4 + 1) alternative being discarded
+ since its last denominator was too large.
+  
+ 
+ Rossi also mentions that Egyptian division may have followed
+ an inverse operation of its multiplication 'doubling' method.
+ 
+ Here also Rossi did not seen the simple remainder arithmetic
+ found in RMP #62 where 100/13 = 7 + 9/13 = 7 + 2/3 + 1/39.
+ 
+ Generally Ahmes and all scribes divided by this Q = quotient
+ and R = remainder method. The Akhmim Wooden Tablet even 
+ shows a special method for grain and volume division where
+ a hekat unity 64/64 was divided by n, with n &lt; 64, as
+ 
+ (64/64)/n = Q/64 + R/(n*64)
+ 
+ Even more interesting, Ahmes also used this method to 
+ divide 100 hekat by 70, with his final form matching
+ the Akhmim Wooden tablet's special use of ro = 1/320th
+ of a hekat, by:
+ 
+ (6400/64)/70 = 91/64 + 30/(70*64)
+ 
+ and introducing ro = 1/320 of a hekat,
+ 
+              = (1 +16 + 8+ 2 + 1)/64 = (150/70)* 1/320
+ 
+              = 1+ 1/4 + 1/8 + 1/32+ 1/64 + (2 + 1/7)*ro
+ 
+ I'll not go on and discuss Rossi' view of Egyptian
+ architecture being the above her standard Cambridge 
+ skeptical comments.
+ 
+ Overall, many accept Rossi's view as informative,
+ and I do as well, in limited areas. However, on the 
+ math side of Rossi's quick use of a Sylvester's and
+ other recent skeptical techniques, all disproven years ago,
+ shows that her Cambridge training needs to be expanded
+ to read the Egyptian mathematical texts. Clearly Ahmes
+ and his brother/sister scribes are the only experts 
+ that should guide our understanding of Egyptian math.  

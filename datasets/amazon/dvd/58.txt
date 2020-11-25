@@ -1,0 +1,19 @@
+ This review is more about the "SuperBit" transfer of the movie to DVD than the movie itself.  The movie itself is great and I highly recommend it.
+ 
+ However, the transfer on to this 2002 "SuperBit" version is very lacking in several areas.  The SUPERBIT idea is a good one that is poorly executed on this transfer.  The original intent was to maximize video and audio quality by limiting or even eliminating extra features (like trailers, documentaries, featurettes, and "Making-Of" snippets) to reserve space such that the movie can be presented in the highest quality.
+ 
+ They have failed to do that here.  The video and audio quality are not what they could be.
+ 
+ First, the movie is encoded onto a DVD-9 RSDL disc.  This means the DVD is capable of storing 9.5 GB of data.  However, not even 6 GB is used. As a result, the video and audio quality is not what it could be.
+ 
+ "Panic Room" is a 112 minute movie.  Any movie that is 2 hours long or less should be able to easily fit on a DVD-9 disc at maximum encoding rate, provided no extra features are placed on the disc. The maximum video encoding rate to fit a 2 hour (or less) movie onto a DVD-9 disc is 9.8 Mbps.  However, this SuperBit version averages only 6.5 Mbps.
+ 
+ This SuperBit version offers audio encoding in 3 types: Dolby 2.0 Surround 192kbps, Dolby Digital 5.1, and DTS 5.1.  At first glance this is great news, until you discover that the DTS encoding isn't as high quality as it could be.  The DD 2.0 Surround is presented at a bitrate of 192bkps as expected.  So is the DD 5.1 at the expected 384kbps rate.  DTS 5.1 can go as high as 1536 kbps, but on this disc is presented at only 768 kbps.  This is unsatisfactory given the fact that one-third of the available disc space of the DVD-9 isn't even used.  The DTS encoding rate should be at least 1024 kbps for a movie like this.  This would represent a 33% increase in filespace for the audio portion, but a much larger increase in audio quality to the human ear.  The filespace increase would be only about 256 MB, which is very reasonable when you have over 3 GB of space not even being used.
+  
+ If they had encoded "Panic Room" on this SuperBit disc at an average video bitrate of 9.5 Mbps, and removed the trailers and features, they would have had enough space to present all three audio encodings above, especially the DTS 5.1 encoding at the 1024 kbps rate I stated.  
+ 
+ Such an encoding process would have used 9.4 GB of the 9.5 GB of available space.  A much better way to fill up the DVD-9 disc and adhere to the spirit of the SuperBit ideal.  The result would have been a movie encoded to DVD-9 at a much higher video and audio quality than what was presented on this disc.
+ 
+ I notice that they will be offering a repackaged SuperBit version in October 2006.  Hopefully that version will fix the flaws I just mentioned and present the movie in the highest encoding rate both video-wise and audio-wise.  It might even offer the better DD-EX 6.1 and DTS-ES 6.1 audio encodings for that extra rear center channel that many A/V receivers can process now.
+ 
+ Another thing I am noticing is that many times, for popular movies, they are released them in 2-disc editions.  The first disc contains only the movie and the second disc is all the extra stuff.  If the movie contains both DD and DTS encodings on the first disc, with a very high video bitrate of 9.0 Mbps or greater, it is already in the SuperBit mold.

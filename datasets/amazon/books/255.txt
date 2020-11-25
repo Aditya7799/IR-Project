@@ -1,0 +1,6 @@
+ I will be brief: Penroses writing is mediocre, his drawings obfuscate more than clarify.
+ The vast majority of the book is devoted to completely and utterly extraneous topics, and seems to largely be a platform for Penroses new quantum theories.
+ His arguments are unclear, weak and largely dependent on philosphers like Lucas and Searle, while his idea of quantum effects is improbable and surely in the end irrelevant (cannot computers tap into quantum effects?) and his knowledge of computer science deeply, deeply suspect.
+ For example, I quote here from the final sections which actually have something to do with his ostensible reason for writing the book: 
+ "Neverthless, one still might imagine some kind of natural selection process being effective for producing approximately valid algorithms. Personally, I find this very hard to believe, however."
+ The entire flourishing, commercially succesful field of evolutionary computing begs to differ here, Mr. Penrose. SUch bonehead errors compells me to point out that this mathematician has no clothes

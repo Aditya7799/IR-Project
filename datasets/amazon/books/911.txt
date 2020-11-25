@@ -1,0 +1,1 @@
+ After some years in the IC design business (mostly analog) I needed to teach a course on ASICSs. This book was the text specified by my predecessor. I did not like the book, and eventually read the Weste and Harris book in its 3rd edition. Wolf is not nearly as clear, complete and logically organized as Weste and Harris - no comparison

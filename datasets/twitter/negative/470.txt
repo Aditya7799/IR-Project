@@ -1,0 +1,1 @@
+System.IO.File.Delete - You lie! You didn't delete my file, and you didn't throw an exception. WTF!? #microsoft #net

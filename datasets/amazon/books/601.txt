@@ -1,0 +1,6 @@
+ I read this book and I think presented material is not practical in commercial applications. In my opinion better solution is writting tests and using aspects to integrate applications. I know this is something different from contracts, by I think contracts are to complex, hard to maintain and lacks of support for multithreaded problems. 
+ 
+ For me another problem with contracts is problem in describing complex constraint that exists in problem domain. For example how to describe that objects must be cloned, not passed by reference or how to check that objects holded by readonly list not change their state during operations on list?
+ 
+ Regards,
+ Marci

@@ -1,0 +1,1 @@
+ This egg slicer would seem to be a smart design since it will do slices and wedges.  However, the wires consistently get snagged in the slots and break.  Also, it does not accomodate jumbo eggs well. 
