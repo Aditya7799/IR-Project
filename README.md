@@ -1,6 +1,11 @@
 # IR-Project
 IR Project Code Semester 7
 
+Team - 
+- Aditya Prashant Dalvi (171IT204)
+- Hemanth Umashakar (171IT216)
+- Manash Sharma (171IT122)
+
 ## Requirements
 - Scipy - for sparse matrix manipulation/computation
 - Numpy 
@@ -17,3 +22,9 @@ Download *GoogleNews-vectors-negative300.bin.gz* - https://github.com/mmihaltz/w
 
 
 ## Constructed W2W and Dictionary will be used for Document Classification
+
+## Preprocessed dataset files are present in datasets folder 
+ - twitter(Sanders Analytics)
+ - 20news
+ - bbcsport
+ - amazon
